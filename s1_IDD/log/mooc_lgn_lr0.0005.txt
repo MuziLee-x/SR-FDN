@@ -1,0 +1,1 @@
+Namespace(A_n_fold=100, A_split=False, batch_size=128, cuda_device='0', dataset='mooc', dropout=0, epochs=1000, eval_freq=10, history_len=10, keep_prob=0.6, latent_dim_rec=64, lightGCN_n_layers=3, lr=0.0005, meta_lr=0.0005, model='lgn', multicore=1, schedule_lr=0.001, seed=2020, stop_step=4, test_u_batch_size=100, topks='[5,20]', weight_decay=0.0001)
